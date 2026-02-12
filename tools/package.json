@@ -62,7 +62,7 @@
     "npm-registry-fetch": "^17.1.0",
     "nullthrows": "^1.1.1",
     "open": "^8.4.0",
-    "openai": "^3.2.1",
+    "openai": "^4.0.0",
     "ora": "^5.4.1",
     "pacote": "^13.1.1",
     "parse-diff": "^0.9.0",
